@@ -1,10 +1,7 @@
-clear
-echo "DW SQUAD WI-FI HACKER"
 echo "DW SQUAD WI-FI HACKER"
 echo "  /|       |\"
 echo "/  |       |  \"
 echo "|    \     /    |"
-echo "|  \ /     \ /  |"
 echo "| \  |     |  / |"
 echo "| \ _\_/^\_/_ / |"
 echo "|    --\//--    |"
